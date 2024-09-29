@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning  HTML, CSS, JavaScript, and APIs.
 - 💞️ I’m looking to collaborate on on beginner-friendly web development projects.
 - 📫 How to reach me [EMAIL:aiciakram18@gmail.com]
+- 📍 Location:Algeria,Oran
 - ⚡ Fun fact:I enjoy learning new coding tricks and experimenting with creative projects!
 
 <!---
